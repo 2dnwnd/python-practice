@@ -1,0 +1,8 @@
+*.xlsx
+/*.png
+/*.jpg
+/*.html
+*.csv
+
+*.exe
+*.log
